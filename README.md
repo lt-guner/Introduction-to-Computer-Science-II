@@ -1,1 +1,1 @@
-# OSU-CS162-Spring-2021
+# OSU CS162 Spring 2021
